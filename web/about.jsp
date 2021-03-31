@@ -66,7 +66,8 @@
     <hr>
     <h4>开发者</h4>
     <span>G201142 ZYT</span><br>
-    <span>邮箱: <a href='mailto:zhaoyitong18@qq.com'>zhaoyitong18@qq.com</a></span>
+    <span>邮箱: <a href='mailto:zhaoyitong18@qq.com'>zhaoyitong18@qq.com</a></span><br>
+    <span>代码库: <a href="https://github.com/origamizyt/G2011Memories">Github:G2011Memories</a></span>
     <hr>
     <span>Copyright© 2020 zhaoyitong</span><br>
     <span>All rights reserved.</span>
