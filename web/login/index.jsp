@@ -2,7 +2,7 @@
 <%
   User user = Utils.getSessionUser(session);
   String target = request.getParameter("target");
-  if (user != null && target != null){
+  if (user != null && target != null && !"/".equals(target)){
       AccessLevel level = Utils.getPageLevel(target);
       if (level != null && level.getValue() <= user.getLevel().getValue()) {
           response.sendRedirect(target);
